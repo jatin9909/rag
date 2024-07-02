@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+flask
+huggingface-hub
+langchain_community
+python-dotenv
+langchain-cohere
+cohere
+pypdf
+rank-bm25
