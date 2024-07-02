@@ -10,4 +10,4 @@ RUN pip install -r requirements.txt
 
 EXPOSE 8501
 EXPOSE 11434
-ENTRYPOINT ["./entrypoint.sh"]
+ENTRYPOINT ["sh", "./entrypoint.sh"]
